@@ -53,4 +53,4 @@ I’m open to collaborations, mentorship, or just chatting about tech!
 
 ---
 
-**Fun Fact**: ["I taught my cat to high-five while debugging code!" 🐱👋]  
+**Fun Fact**: I'm a Local Music Band Manager :D.  
