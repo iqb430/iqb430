@@ -1,34 +1,56 @@
-# 🌱 Data Science Learning Journey  
-**Hi! I'm Iqbal**  
-*Beginner in Data Science | Passionate About Learning*
+# 👋 Hi, I'm Iqbal  
+**Aspiring Data Scientist | Python Developer | Lifelong Learner**  
 
-Welcome to my learning repository! This is where I document my progress as I learn data science from scratch. I use GitHub to store practice code, notes, and small projects as part of my 100-day journey into data science.
-
----
-
-## 📚 About This Portfolio  
-This is an **active learning portfolio** containing:  
-- **Python practice code** and data science library experiments (Pandas, NumPy, etc.).  
-- **Learning notes** in Jupyter Notebooks and Markdown files.  
-- **Small projects** to apply newly learned concepts.  
-- **Daily progress** visible through commit history.  
-
-*I’m just starting out, and this repository will grow as I improve my skills!*
+Welcome to my GitHub profile! I’m passionate about turning data into actionable insights and building solutions with code. This space documents my journey into data science, machine learning, and programming.  
 
 ---
 
-## 🛠 Currently Learning  
-**Skills I’m focusing on**:  
-- Python Programming Basics  
-- Data Manipulation with Pandas  
-- Data Visualization with Matplotlib  
-- Introduction to Machine Learning  
-- Git & GitHub Basics  
-
-**Learning Roadmap**:  
-1. Week 1-2: Python Fundamentals  
-2. Week 3-4: Data Analysis with Pandas  
-3. Week 5-6: Data Visualization Basics  
-4. Week 7-8: Introduction to Machine Learning  
+## 🚀 **What I’m Doing**  
+- 🌱 **Learning**: Data analysis, machine learning, and software development.  
+- 💡 **Exploring**: Open-source projects and real-world datasets.  
+- 🎯 **Goals**: Building end-to-end data projects and contributing to AI communities.  
 
 ---
+
+## 🛠️ **Skills & Tools**  
+**Languages**:  
+Python • SQL  
+
+**Data Science**:  
+Pandas • NumPy • Scikit-learn • Matplotlib  
+
+**Tools**:  
+Git • Jupyter Notebook • VS Code • Excel  
+
+---
+
+## 📂 **Recent Projects**  
+1. **[100 Days Learning Data Science]**  
+   This is where I document my progress as I learn data science from scratch. I use GitHub to store practice code, notes, and small projects as part of my 100-day journey into data science.
+ 
+
+🔗 *Explore my repositories below for code and details!*  
+
+---
+
+## 📊 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)  
+
+---
+
+## 🌟 **Learning Goals for 2025**  
+- Master machine learning workflows with Scikit-learn.  
+- Build a deployed ML model using Flask/Django.  
+- Contribute to open-source data science projects.  
+
+---
+
+## 📫 **Let’s Connect!**  
+I’m open to collaborations, mentorship, or just chatting about tech!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/iqb430/)  
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail)](mailto:1qbal4nwarr@gmail.com)  
+
+---
+
+**Fun Fact**: ["I taught my cat to high-five while debugging code!" 🐱👋]  
