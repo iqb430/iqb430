@@ -25,8 +25,8 @@ Git • Jupyter Notebook • VS Code • Excel
 ---
 
 ## 📂 **Recent Projects**  
-1. **[100 Days Learning Data Science]**  
-   This is where I document my progress as I learn data science from scratch. I use GitHub to store practice code, notes, and small projects as part of my 100-day journey into data science.
+1. **[LLM Model Analysis: Performance, Cost & Efficiency](https://github.com/iqb430/LLM_analysis)**  
+   Analyzing 150+ LLMs to uncover trade-offs between speed, accuracy, and cost. Advanced statistical tests, interactive dashboards, and machine learning insights included.
  
 
 🔗 *Explore my repositories below for code and details!*  
