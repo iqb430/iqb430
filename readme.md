@@ -27,6 +27,8 @@ Git • Jupyter Notebook • VS Code • Excel
 ## 📂 **Recent Projects**  
 1. **[LLM Model Analysis: Performance, Cost & Efficiency](https://github.com/iqb430/LLM_analysis)**  
    Analyzing 150+ LLMs to uncover trade-offs between speed, accuracy, and cost. Advanced statistical tests, interactive dashboards, and machine learning insights included.
+1. **[Green Energy Insights](https://github.com/iqb430/green-energy-insights)**  
+   An interactive dashboard that visualizes global energy consumption, renewable energy adoption, and carbon emissions trends. Built with Python, Dash, and Plotly.
  
 
 🔗 *Explore my repositories below for code and details!*  
