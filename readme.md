@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m passionate about turning data into actionabl
 
 ---
 
-## 🛠️ **Skills & Tools**  
+## **Skills & Tools**  
 **Languages**:  
 Python • SQL  
 
@@ -32,11 +32,6 @@ Git • Jupyter Notebook • VS Code • Excel
  
 
 🔗 *Explore my repositories below for code and details!*  
-
----
-
-## **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqb430&show_icons=true&theme=light)  
 
 ---
 
