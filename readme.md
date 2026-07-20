@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Iqbal  
+# Hi, I'm Iqbal  
 **Aspiring Data Scientist | Python Developer | Lifelong Learner**  
 
 Welcome to my GitHub profile! I’m passionate about turning data into actionable insights and building solutions with code. This space documents my journey into data science, machine learning, and programming.  
 
 ---
 
-## 🚀 **What I’m Doing**  
-- 🌱 **Learning**: Data analysis, machine learning, and software development.  
-- 💡 **Exploring**: Open-source projects and real-world datasets.  
-- 🎯 **Goals**: Building end-to-end data projects and contributing to AI communities.  
+## **What I’m Doing**  
+- **Learning**: Data analysis, machine learning, and software development.  
+- **Exploring**: Open-source projects and real-world datasets.  
+- **Goals**: Building end-to-end data projects and contributing to AI communities.  
 
 ---
 
@@ -24,7 +24,7 @@ Git • Jupyter Notebook • VS Code • Excel
 
 ---
 
-## 📂 **Recent Projects**  
+## **Recent Projects**  
 1. **[LLM Model Analysis: Performance, Cost & Efficiency](https://github.com/iqb430/LLM_analysis)**  
    Analyzing 150+ LLMs to uncover trade-offs between speed, accuracy, and cost. Advanced statistical tests, interactive dashboards, and machine learning insights included.
 1. **[Green Energy Insights](https://github.com/iqb430/green-energy-insights)**  
@@ -35,19 +35,19 @@ Git • Jupyter Notebook • VS Code • Excel
 
 ---
 
-## 📊 **GitHub Stats**  
+## **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqb430&show_icons=true&theme=light)  
 
 ---
 
-## 🌟 **Learning Goals for 2025**  
+## **Learning Goals for 2025**  
 - Master machine learning workflows with Scikit-learn.  
 - Build a deployed ML model using Flask/Django.  
 - Contribute to open-source data science projects.  
 
 ---
 
-## 📫 **Let’s Connect!**  
+## **Let’s Connect!**  
 I’m open to collaborations, mentorship, or just chatting about tech!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/iqb430/)  
