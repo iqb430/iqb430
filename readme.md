@@ -1,5 +1,5 @@
 # Hi, I'm Iqbal  
-**Aspiring Data Scientist | Python Developer | Lifelong Learner**  
+**Aspiring Data Scientist | Python Developer | AI Engineer | Lifelong Learner**  
 
 Welcome to my GitHub profile! I’m passionate about turning data into actionable insights and building solutions with code. This space documents my journey into data science, machine learning, and programming.  
 
