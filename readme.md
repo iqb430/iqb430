@@ -1,59 +1,40 @@
-# Hi, I'm Iqbal  
-**Aspiring Data Scientist | Python Developer | AI Engineer | Lifelong Learner**  
+# Iqbal
+**Senior AI Engineer | Staff AI Systems**
 
-Welcome to my GitHub profile! I’m passionate about turning data into actionable insights and building solutions with code. This space documents my journey into data science, machine learning, and programming.  
+Designing and engineering robust LLMOps infrastructure, deterministic AI applications, and scalable backend systems.
 
----
+## Core Engineering Projects
 
-## **What I’m Doing**  
-- **Learning**: Data analysis, machine learning, and software development.  
-- **Exploring**: Open-source projects and real-world datasets.  
-- **Goals**: Building end-to-end data projects and contributing to AI communities.  
+### [omniroute-gateway](https://github.com/iqb430/omniroute-gateway)
+High-concurrency multi-tenant LLM gateway.
+* **High-Throughput Routing**: Dynamic fallback routing for maximum uptime.
+* **Real-Time Streaming SSE**: Low latency token delivery.
+* **Redis Token Bucket**: Distributed rate limiting.
+* **Prometheus**: Full observability and metrics collection.
 
----
+### [antislop-rag](https://github.com/iqb430/antislop-rag)
+Zero-framework local RAG engine in pure Python.
+* **Local-First RAG**: Fully local execution for privacy and control.
+* **Semantic Chunking**: Context aware document processing.
+* **Ragas**: Automated evaluation pipelines.
+* **CI/CD**: Comprehensive testing and deployment automation.
 
-## **Skills & Tools**  
-**Languages**:  
-Python • SQL  
+### [global-llm-benchmark](https://github.com/iqb430/global-llm-benchmark)
+Deterministic LLM benchmarking and cost/throughput arbitrage platform.
+* **Arbitrage**: Cost and throughput optimization across providers.
+* **Visualization**: Brutalist Streamlit visualization.
+* **Deterministic**: Reproducible evaluation environments.
 
-**Data Science**:  
-Pandas • NumPy • Scikit-learn • Matplotlib  
+## Technical Stack Matrix
 
-**Tools**:  
-Git • Jupyter Notebook • VS Code • Excel  
+| Category | Technologies |
+| :--- | :--- |
+| **Core Languages** | Python, TypeScript, SQL |
+| **Systems & Backend** | FastAPI, Redis, Docker, Prometheus |
+| **AI & Data** | vLLM, Ollama, ChromaDB, PyMuPDF, Ragas |
 
----
+## Contact
 
-## **Featured Projects**
-**[omniroute-gateway](https://github.com/iqb430/omniroute-gateway)**  
-Multi-Tenant LLM Gateway. FastAPI, Redis Rate Limiting, SSE Streaming, Prometheus Observability.
-
----
-
-## **Recent Projects**  
-1. **[LLM Model Analysis: Performance, Cost & Efficiency](https://github.com/iqb430/LLM_analysis)**  
-   Analyzing 150+ LLMs to uncover trade-offs between speed, accuracy, and cost. Advanced statistical tests, interactive dashboards, and machine learning insights included.
-1. **[Green Energy Insights](https://github.com/iqb430/green-energy-insights)**  
-   An interactive dashboard that visualizes global energy consumption, renewable energy adoption, and carbon emissions trends. Built with Python, Dash, and Plotly.
- 
-
-🔗 *Explore my repositories below for code and details!*  
-
----
-
-## **Learning Goals for 2025**  
-- Master machine learning workflows with Scikit-learn.  
-- Build a deployed ML model using Flask/Django.  
-- Contribute to open-source data science projects.  
-
----
-
-## **Let’s Connect!**  
-I’m open to collaborations, mentorship, or just chatting about tech!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/iqb430/)  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail)](mailto:1qbal4nwarr@gmail.com)  
-
----
-
-**Fun Fact**: I'm a Local Music Band Manager :D.  
+* **Email**: [iqb.anwarr@gmail.com](mailto:iqb.anwarr@gmail.com)
+* **LinkedIn**: [linkedin.com/in/iqb430](https://www.linkedin.com/in/iqb430/)
+* **GitHub**: [github.com/iqb430](https://github.com/iqb430)
