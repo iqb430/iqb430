@@ -24,6 +24,12 @@ Git • Jupyter Notebook • VS Code • Excel
 
 ---
 
+## **Featured Projects**
+**[omniroute-gateway](https://github.com/iqb430/omniroute-gateway)**  
+Multi-Tenant LLM Gateway. FastAPI, Redis Rate Limiting, SSE Streaming, Prometheus Observability.
+
+---
+
 ## **Recent Projects**  
 1. **[LLM Model Analysis: Performance, Cost & Efficiency](https://github.com/iqb430/LLM_analysis)**  
    Analyzing 150+ LLMs to uncover trade-offs between speed, accuracy, and cost. Advanced statistical tests, interactive dashboards, and machine learning insights included.
