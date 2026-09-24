@@ -1,5 +1,5 @@
 # Iqbal
-**Senior AI Engineer | Staff AI Systems**
+**Applied AI Engineer**
 
 Designing and engineering robust LLMOps infrastructure, deterministic AI applications, and scalable backend systems.
 
