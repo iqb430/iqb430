@@ -1,5 +1,5 @@
 # Iqbal
-**Applied AI Engineer**
+**AI Systems Engineer**
 
 Designing and engineering robust LLMOps infrastructure, deterministic AI applications, and scalable backend systems.
 
